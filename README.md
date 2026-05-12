@@ -2,10 +2,10 @@
 <!-- markdownlint-disable -->
 
 <!-- markdownlint-restore -->
-### 👋 Hi, I'm **Ksandr**
+### Hi, I'm **Ksandr**
 
 DevOps Engineer & Software Developer.<br />
 Linux geek, hardware lover, and lifelong learner.
 
-### 📬 Contact: 
+### Contact: 
 [LinkedIn](https://www.linkedin.com/in/wachawo/) [Telegram](https://t.me/wachawo) <!-- [buymeacoffee](https://buymeacoffee.com/wachawo) -->
