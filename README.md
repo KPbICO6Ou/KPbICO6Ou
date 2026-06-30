@@ -5,7 +5,7 @@
 ### Hi, I'm **wachawo**
 
 DevOps Engineer & Software Developer.<br />
-The "Prototyper", "Builder", "Sweeper", "Grower" and "Maintainer" (C) Boris Cherny
+The "Prototyper", "Builder", "Sweeper", "Grower" and "Maintainer" (C) Boris Cherny<br />
 Linux geek, hardware lover, and lifelong learner.
 
 P.S.: If I followed you, it means you have an interesting repository that more people should know about.
